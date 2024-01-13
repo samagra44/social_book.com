@@ -1,4 +1,4 @@
-![Sign In - Social Book - Brave 2024-01-13 22-45-56](https://github.com/samagra44/social_book.com/assets/77968722/1bb7886d-2906-442b-bed8-575033f1c6f2)# Social Book - A Social Media Platform
+# Social Book - A Social Media Platform
 
 ## Project Overview
 
